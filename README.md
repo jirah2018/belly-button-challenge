@@ -33,4 +33,4 @@
 
 7. Deploy app when completed.
 
-# DEPLOYMENT PAGE:https://jirah2018.github.io/belly-button-challenge/
+# DEPLOYMENT PAGE:https://jirah2018.github.io/belly-button-challenge/blob/main/index.html
